@@ -7,9 +7,5 @@ NewsPage.create().open();
 // SettingsPage waits to be opened...
 SettingsPage.create(); 
 
-//var firebase = require("https://www.gstatic.com/firebasejs/3.3.0/firebase.js");
-
-var stripe = require("https://js.stripe.com/v2/");
-
 
 
